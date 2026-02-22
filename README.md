@@ -1,6 +1,4 @@
-To make your project stand out on GitHub, your README should be clear, professional, and visually structured. Here is a high-quality template you can copy and paste.
-
-📰 Fake News Detection System
+ Fake News Detection System
 An end-to-end Machine Learning web application designed to identify and verify the authenticity of news articles. By leveraging Natural Language Processing (NLP) and ensemble learning, this system provides real-time verdicts on whether news content is "Real" or "Fake."
 
 🚀 Features
